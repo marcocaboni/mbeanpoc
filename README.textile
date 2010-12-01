@@ -1,0 +1,7 @@
+h1. MBean poc
+
+MBean small proof of concept.
+
+See  the blog post
+"Monitoraggio e controllo delle applicazioni tramite JMX - Introduzione":http://sinossisoftware.blogspot.com/2010/11/monitoraggio-e-controllo-delle.html
+for more information.
